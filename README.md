@@ -13,7 +13,3 @@ View,Save,Print and Share :-
 
 ADHARCARD,PANCARD,PASSPORT AND TRAIN ENQUIRY
 
-Notes :-
-1) The land record provided here is only for general information.
-
-2)If you want original copy ,Please contact your goverment office.
