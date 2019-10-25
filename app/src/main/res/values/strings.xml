@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Bhulekh Maharashtra</string>
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Fullscreen Ad</string>
+    <string name="save">SAVE</string>
+    <string name="share">SHARE</string>
+
+    <string name="adhar_card_status">ADHAR CARD STATUS</string>
+    <string name="pan_card_status">PAN CARD STATUS</string>
+    <string name="passport_status">PASSPORT STATUS</string>
+    <string name="bhulekh">BHULEKH</string>
+    <string name="extra_service">EXTRA SERVICE</string>
+    <string name="rate_and_review">RATE AND REVIEW</string>
+    <string name="share_application">SHARE APPLICATION</string>
+    <string name="train_enquiryy">TRAIN ENQUIRY</string>
+    <string name="update_available">UPDATE AVAILABLE</string>
+    <string name="train_between_station">TRAIN BETWEEN STATION</string>
+    <string name="pnr_status">PNR STATUS</string>
+    <string name="train_schedule">TRAIN SCHEDULE</string>
+    <string name="live_train_status">LIVE TRAIN STATUS</string>
+    <string name="seat_availability">SEAT AVAILABILITY</string>
+    <string name="fair_enquiry">FAIR ENQUIRY</string>
+    <string name="live_station_info">LIVE STATION INFO</string>
+    <string name="canceled_trains">CANCELED TRAINS</string>
+    <string name="diverted_trains">DIVERTED TRAINS</string>
+    <string name="MainBanner">584936501857877_908323402852517</string>
+    <string name="WebViewAddress">https://bhulekh.mahabhumi.gov.in/</string>
+    <string name="AppVersionCheckUrl">http://applicationhelpkm.blogspot.in/p/maharashtra.html</string>
+    <string name="FBInterstitialAd">584936501857877_908324342852423</string>
+    <string name="AdharCard_URL">https://uidai.gov.in/</string>
+    <string name="PanCard_URL">https://tin.tin.nsdl.com/pantan/StatusTrack.html</string>
+    <string name="Passport_URL">http://passportindia.gov.in/AppOnlineProject/statusTracker/trackStatusInpNew</string>
+    <string name="FB_ExtraService_Banner">584936501857877_908324792852378</string>
+    <string name="FB_WebView_Banner">584936501857877_908324566185734</string>
+    <string name="FB_Train_BannerAd">584936501857877_908324156185775</string>
+    <string name="Train_Between_Status_URL">https://enquiry.indianrail.gov.in/xyzabc/e_trainsBwStns.jsp</string>
+    <string name="Pnr_Status_URL">http://www.indianrail.gov.in/enquiry/PNR/PnrEnquiry.html?locale=en</string>
+    <string name="Train_Schedule_URL">https://enquiry.indianrail.gov.in/xyzabc/e_trainSchedule.jsp</string>
+    <string name="Live_Train_URL">https://enquiry.indianrail.gov.in/xyzabc/e_index.jsp</string>
+    <string name="Seat_Availability_URL">http://www.indianrail.gov.in/enquiry/SEAT/SeatAvailability.html?locale=en</string>
+    <string name="Fair_Enquiry_URL">http://www.indianrail.gov.in/enquiry/FARE/FareEnquiry.html?locale=en</string>
+    <string name="Live_Station_URL">https://enquiry.indianrail.gov.in/xyzabc/e_liveStation.jsp</string>
+    <string name="Cancelled_Train_URL">https://enquiry.indianrail.gov.in/xyzabc/CancelledTrains</string>
+    <string name="Diverted_Train_URL">https://enquiry.indianrail.gov.in/xyzabc/DivertedTrains</string>
+
+
+</resources>
